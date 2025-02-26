@@ -1,0 +1,6 @@
+[submodule "Unix_system_setup"]
+	path = Unix_system_setup
+	url = https://github.com/skose82/Unix_system_setup
+[submodule "Docker_and_VirtualBox_Image_HowTo"]
+	path = Docker_and_VirtualBox_Image_HowTo
+	url = https://github.com/skose82/Docker_and_VirtualBox_Image_HowTo
